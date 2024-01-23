@@ -4,6 +4,7 @@ import os
 import requests
 from datetime import datetime
 
+
 # Set up logging configuration
 log_file = 'solana_price.log'
 
